@@ -1,0 +1,4 @@
+Arduino-Makefile
+libraries
+libraries_extern
+build*
